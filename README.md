@@ -25,4 +25,8 @@ Thus, the game should enable two users to "drive" their tank and decrease the en
 - JavaFX client shall have an executable jar archive that can be launched like a normal application (by clicking on the file).
 - README.md file shall be prepared with a set of instructions for application assembly and startup.
 
-Files you can use to implement the game: [Materials](/materials)
+===
+**How to play**:
+1. Set up Postgres Server
+2. Start the server from folder ServerTanks
+3. Start the game from folder ClientTanks
